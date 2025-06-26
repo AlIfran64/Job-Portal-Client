@@ -9,6 +9,12 @@ CareerCode is a full-stack web application that empowers users to build their pr
 
 ---
 
+## 🖥️ Server Repository
+
+- [Job Portal - Server](https://github.com/AlIfran64/Job-Portal-Server)
+
+---
+
 ## 🚀 Features
 
 
