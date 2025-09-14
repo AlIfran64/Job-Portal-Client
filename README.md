@@ -1,4 +1,4 @@
-# CareerCode - A Job Portal Websit
+# CareerCode - A Job Portal Website
 CareerCode is a full-stack web application that empowers users to build their professional portfolios, access career-prep resources, and manage job-related content seamlessly. Designed with scalability and user experience in mind, CareerCode integrates secure authentication, clean UI design, and robust backend functionality.
 
 ---
