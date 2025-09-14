@@ -1,4 +1,4 @@
-# 💼 CareerCode - A Job Portal Website
+# CareerCode - A Job Portal Website
 CareerCode is a full-stack web application that empowers users to build their professional portfolios, access career-prep resources, and manage job-related content seamlessly. Designed with scalability and user experience in mind, CareerCode integrates secure authentication, clean UI design, and robust backend functionality.
 
 ---
@@ -9,27 +9,27 @@ CareerCode is a full-stack web application that empowers users to build their pr
 
 ---
 
-## 🖥️ Server Repository
-
-- [Job Portal - Server](https://github.com/AlIfran64/Job-Portal-Server)
-
----
-
-## 🚀 Features
+## Features
 
 
-- 🔐 **Secure Authentication (Firebase)**  
+- **Secure Authentication (Firebase)**  
   Auth system for login/register with protected routes to ensure user privacy.
 
-- ⚙️ **Full CRUD via REST API**  
+- **Full CRUD via REST API**  
   Users can perform Create, Read, Update, and Delete operations on their portfolio data.
 
-- ☁️ **Cloud Storage with MongoDB Atlas**  
+- **Cloud Storage with MongoDB Atlas**  
   All user data is stored in a scalable and secure NoSQL database.
 
 ---
 
-## 🧰 Tech Stack
+## 🔗 Additional Links
+
+- Server-side Repository: [https://github.com/AlIfran64/Job-Portal-Server](https://github.com/AlIfran64/Job-Portal-Server)
+
+---
+
+## Tech Stack
 
 ### Frontend
 - [React.js](https://reactjs.org/) – Component-based UI
@@ -45,13 +45,13 @@ CareerCode is a full-stack web application that empowers users to build their pr
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-> 📌 Make sure you have **Node.js**, **npm**, and **MongoDB Atlas** credentials ready.
+> Make sure you have **Node.js**, **npm**, and **MongoDB Atlas** credentials ready.
 
 ---
 
-### 🔹 Frontend Setup
+### Frontend Setup
 
 ```bash
 cd client
@@ -60,7 +60,7 @@ npm run dev
 ```
 ---
 
-### 🔹 Backend Setup
+### Backend Setup
 
 ```bash
 cd server
